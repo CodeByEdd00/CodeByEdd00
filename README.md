@@ -28,12 +28,12 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,git,github&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,git,github&perline=12" />
   </a>
 </p>
 <br>
 <!--- stats & Trophy (start) -->
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Stats</h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="left">

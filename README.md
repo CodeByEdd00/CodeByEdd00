@@ -28,11 +28,12 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javacss,html,git,github,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,git,github&perline=12" />
   </a>
 </p>
 <br>
 <!--- stats & Trophy (start) -->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="left">
@@ -52,14 +53,6 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        

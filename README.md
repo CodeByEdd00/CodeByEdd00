@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy EDUARD GARCÍA GUILLÉN ✨ </h1> 
 
 <p align="center">
   <img src="https://github.com/CodeByEdd00/CodeByEdd00/blob/master/img/BannerGitHub.png?raw=true" alt="Banner" />

@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduard García Guillén"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eduard García Guillén"/></a>
 <a href = "mailto:garciaguilleneduard@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Eduard García Guillén"  /></a>
 <a href = "https://x.com/CodeByEdd" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-D14836?style=for-the-badge&logo=twitterl&logoColor=white" alt="@CodeByEdd"  /></a>
 </p>
